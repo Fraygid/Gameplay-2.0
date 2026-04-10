@@ -11,5 +11,6 @@ class Monster:
         print(f'⚔️: {self.dmg}')
         print('- - - - - - - - - - - - - -')
 
+
 mon1 = Monster('Горгулья', 120, 18)
 mon1.show_info()
